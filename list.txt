@@ -1,0 +1,8 @@
+Data Structure|https://stackoverflow.com/|Asking questions for c++|stackoverflow Asking|Good|9
+Data Structure|http://www.cplusplus.com/|Tutorial website for c++|good one|cplusplus|10
+Data Structure|https://www.tutorialspoint.com/cplusplus/|another c++ tutorial|good one|tutorialspoint cplusplus|8
+Movie|https://www.netflix.com/|paid movie service|good choice|netflix|9
+Movie|https://www.test.com/|Korean dramas|free|test|5
+Movie|https://www.viki.com/|Korean dramas|free|viki|9
+Movie|https://www.youtube.com/|online video sharing|fun one|youtube|9
+
